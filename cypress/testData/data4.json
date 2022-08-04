@@ -1,0 +1,9 @@
+
+	[
+		{
+		"tc":"Search with wrong spelling, Apoolloo 11 in wikipedia",  
+		"searchWrongSpellingText":"Apoolloo 11",
+		"searchExpectedTextData": "apollo 11"
+		}
+	]
+		
